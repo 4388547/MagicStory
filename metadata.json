@@ -1,0 +1,5 @@
+{
+  "name": "MagicStory - Children's Book Video Generator",
+  "description": "Generates consistent video storyboards for children's books using Google Search, Veo, and Gemini TTS.",
+  "requestFramePermissions": []
+}
